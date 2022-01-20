@@ -26,5 +26,3 @@ http://localhost:8888 をブラウザで開く。
 ```
 $ jupyter serverextension list  
 ```
-
-## Licence
