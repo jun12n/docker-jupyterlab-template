@@ -26,3 +26,28 @@ http://localhost:8888 をブラウザで開く。
 ```
 $ jupyter serverextension list  
 ```
+
+## JupyterLabの設定
+"Terminal"の"User Preferences"  
+```
+{
+    "fontFamily": "'Monaco', 'Roboto Mono', 'Migu 1M'"
+}
+```
+
+"Theme"の"User Preferences"  
+```
+{
+    "overrides": {
+        "code-font-family": "'Monaco', 'Roboto Mono', 'Migu 1M', Consolas",
+        "code-font-size": "10pt",
+        "content-font-family": "'Migu 1C'",
+        "content-font-size1": null,
+        "ui-font-family": null,
+        "ui-font-size1": null
+    },
+
+    "theme": "JupyterLab Light",
+    "theme-scrollbars": false
+}
+```

@@ -1,8 +1,9 @@
+## JupyterLab setting
+.jupyter/*
+!.jupyter/.gitkeep
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos,windows,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,macos,windows,git
-
-.virtual_documents
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
@@ -25,6 +26,7 @@
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.virtual_documents
 
 # IPython
 profile_default/
