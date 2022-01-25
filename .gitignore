@@ -1,7 +1,7 @@
 # Original settings
 ## JupyterLab setting
-.jupyter/*
-!.jupyter/lab/user-settings/*
+.jupyter/migrated
+.jupyter/lab/workspaces
 ## workspace
 workspace/datasets/*
 !workspace/datasets/.gitkeep
