@@ -1,6 +1,13 @@
+# Original settings
 ## JupyterLab setting
 .jupyter/*
 !.jupyter/.gitkeep
+## workspace
+workspace/datasets/*
+!workspace/datasets/.gitkeep
+workspace/notebooks/*
+!workspace/notebooks/.gitkeep
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos,windows,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,macos,windows,git
