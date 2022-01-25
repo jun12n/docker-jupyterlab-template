@@ -28,6 +28,7 @@ $ jupyter serverextension list
 ```
 
 ## JupyterLabの設定
+
 "Terminal"の"User Preferences"  
 ```
 {
@@ -49,5 +50,14 @@ $ jupyter serverextension list
 
     "theme": "JupyterLab Light",
     "theme-scrollbars": false
+}
+```
+
+"notebook"の"User Preferences"  
+```
+{
+    "codeCellConfig": {
+      "lineNumbers": true
+    }
 }
 ```
